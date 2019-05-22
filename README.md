@@ -1,10 +1,25 @@
+## MPU6050
 MPU6050 Class Reference at www.i2cdevlib.com
 https://www.i2cdevlib.com/docs/html/class_m_p_u6050.html
 
 MPU6050 Register Map
 https://www.i2cdevlib.com/devices/mpu6050#registers
 
+### Platforms and examples
 
+ - Arduino
+
+https://github.com/Naohiro2g/i2cdevlib/tree/master/Arduino/MPU6050
+
+ - ESP32-ESP-IDF
+
+https://github.com/Naohiro2g/i2cdevlib/tree/master/ESP32_ESP-IDF
+
+ - Raspberry Pi
+
+https://github.com/Naohiro2g/i2cdevlib/tree/master/RaspberryPi_bcm2835
+
+============================================================================
 
 
 Jennic platform added!

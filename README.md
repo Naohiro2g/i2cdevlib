@@ -1,6 +1,6 @@
 ## MPU6050
 
-### Information at at www.i2cdevlib.com
+### Information at www.i2cdevlib.com
 [MPU6050 Class Reference](https://www.i2cdevlib.com/docs/html/class_m_p_u6050.html)
 
 [MPU6050 Register Map](https://www.i2cdevlib.com/devices/mpu6050#registers)

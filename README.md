@@ -1,32 +1,22 @@
 ## MPU6050
-MPU6050 Class Reference at www.i2cdevlib.com
-https://www.i2cdevlib.com/docs/html/class_m_p_u6050.html
+[MPU6050 Class Reference at www.i2cdevlib.com](https://www.i2cdevlib.com/docs/html/class_m_p_u6050.html)
 
-MPU6050 Register Map
-https://www.i2cdevlib.com/devices/mpu6050#registers
+[MPU6050 Register Map](https://www.i2cdevlib.com/devices/mpu6050#registers)
 
 ### Platforms and examples
 
- - Arduino
+ - [Arduino](https://github.com/Naohiro2g/i2cdevlib/tree/master/Arduino/MPU6050)
 
-https://github.com/Naohiro2g/i2cdevlib/tree/master/Arduino/MPU6050
+ - [ESP32-ESP-IDF](https://github.com/Naohiro2g/i2cdevlib/tree/master/ESP32_ESP-IDF)
 
- - ESP32-ESP-IDF
+ - [Raspberry Pi](https://github.com/Naohiro2g/i2cdevlib/tree/master/RaspberryPi_bcm2835)
 
-https://github.com/Naohiro2g/i2cdevlib/tree/master/ESP32_ESP-IDF
-
- - Raspberry Pi
-
-https://github.com/Naohiro2g/i2cdevlib/tree/master/RaspberryPi_bcm2835
-
-============================================================================
+=====
 
 
 Jennic platform added!
 
-============================================================================
-Note: for details about this project, please visit: http://www.i2cdevlib.com
-============================================================================
+## Note: for details about this project, please visit: http://www.i2cdevlib.com
 
 The I2C Device Library (i2cdevlib) is a collection of uniform and well-documented classes to provide simple and intuitive interfaces to I2C devices. Each device is built to make use of the generic "I2Cdev" class, which abstracts the I2C bit- and byte-level communication away from each specific device class, making it easy to keep the device class clean while providing a simple way to modify just one class to port the I2C communication code onto different platforms (Arduino, PIC, MSP430, Jennic, simple bit-banging, etc.). Device classes are designed to provide complete coverage of all functionality described by each device's documentation, plus any generic convenience functions that are helpful.
 
